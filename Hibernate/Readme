@@ -1,2 +1,0 @@
-Не до конца понимаю почему оно не хочет запускаться. Пишет java.lang.IllegalStateException: Cannot get a connection as the driver manager is not properly initialized
-Хотя вроде всё написано как в примере https://dzone.com/articles/hibernate-5-java-configuration-example
